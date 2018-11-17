@@ -1,6 +1,6 @@
 # RailsEx
 
-Fun little tool that ccan create a Rails application using a mix command.
+Fun little tool that can create a Rails application using a mix command.
 
 ## Installation
 
