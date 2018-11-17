@@ -1,21 +1,12 @@
 # RailsEx
 
-**TODO: Add description**
+Fun little tool that ccan create a Rails application using a mix command.
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `rails_ex` to your list of dependencies in `mix.exs`:
+Install it with the following command:
 
-```elixir
-def deps do
-  [
-    {:rails_ex, "~> 0.1.0"}
-  ]
-end
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/rails_ex](https://hexdocs.pm/rails_ex).
+mix archive.install github drumusician/rails_ex
+```
 
